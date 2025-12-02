@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Illusion Night",
+  "base_artist": "Pavolia Reine",
+  "createdAt": "2025-12-02T01:46:42.625961Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Illusion Night",
+      "artist": "Pavolia Reine",
+      "has_synced": true,
+      "path": "select/01_Illusion_Night_Pavolia_Reine.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Illusion: Night",
+      "artist": "Skyharbor",
+      "has_synced": true,
+      "path": "select/02_Illusion__Night_Skyharbor.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Illusion : Night",
+      "artist": "Skyharbor",
+      "has_synced": true,
+      "path": "select/03_Illusion___Night_Skyharbor.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Just An Illusion (Night Dubbing Mix)",
+      "artist": "Imagination",
+      "has_synced": true,
+      "path": "select/04_Just_An_Illusion_(Night_Dubbing_Mix)_Imagination.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Illusion Night",
+      "artist": "Pavolia Reine",
+      "has_synced": false,
+      "path": "select/pl_01_Illusion_Night_Pavolia_Reine.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Illusion Night",
+      "artist": "Pavolia Reine",
+      "has_synced": false,
+      "path": "select/pl_02_Illusion_Night_Pavolia_Reine.txt"
+    }
+  ]
+}
